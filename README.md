@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/o1MXbR1.gif' title='Video Walkthrough' width='40' height='40' alt='Video Walkthrough' />
+<img src='[Imgur](https://imgur.com/wCgzLaW)' title='Video Walkthrough' width='40' height='40' alt='Video Walkthrough' />
+
+https://imgur.com/a/o1MXbR1
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
