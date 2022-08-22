@@ -24,8 +24,6 @@ Here's a walkthrough of implemented features:
 
 <img src='walkthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-https://imgur.com/a/o1MXbR1
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
 
